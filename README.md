@@ -1,4 +1,4 @@
-# EFaturaGoruntuleyici
+# E-Fatura Görüntüleyici
 XML Formatındaki faturaları görüntülemek için kullanılabilecek bir uygulama.
 
 GİB'in paylaştığı E-Fatura görüntüleme uygulamasına benzer yapıda yapılmış bir uygulamadır.(C#)
