@@ -1,0 +1,11 @@
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\EFaturaGoruntuleyici.exe.config
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\EFaturaGoruntuleyici.exe
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\EFaturaGoruntuleyici.pdb
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\Select.HtmlToPdf.dll
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\Select.HtmlToPdf.xml
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\bin\Debug\Select.Html.dep
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\obj\Debug\EFaturaGoruntuleyici.csprojAssemblyReference.cache
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\obj\Debug\EFaturaGoruntuleyici.csproj.CoreCompileInputs.cache
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\obj\Debug\EFaturaGoruntuleyici.csproj.CopyComplete
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\obj\Debug\EFaturaGoruntuleyici.exe
+D:\Github2\EFaturaGoruntuleyici\EFaturaGoruntuleyici\obj\Debug\EFaturaGoruntuleyici.pdb
